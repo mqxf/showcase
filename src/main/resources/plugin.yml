@@ -1,0 +1,16 @@
+name: Showcase
+version: '${project.version}'
+main: dev.mv.showcase.Showcase
+authors: [ mqxf ]
+description: Showcase
+commands:
+  item:
+    description: get an item
+  showStats:
+    description: display mob stats
+  lootchest:
+    description: makes a lootchest
+  protect:
+    description: protect
+  speed:
+    description: change speed
